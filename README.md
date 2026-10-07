@@ -151,6 +151,16 @@ Python · FastAPI · Twilio · AI
 
 ---
 
+## ⚡ Live Profile Pulse
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vikash222/Vikash222/main/assets/profile-pulse.svg" width="96%" alt="Automatically updated GitHub profile pulse"/>
+
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
