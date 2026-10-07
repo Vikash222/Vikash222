@@ -6,6 +6,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1e293b,100:312e81&text=VIKASH%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Builder%20%7C%20AI%20%26%20Web&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
 
+<div align="center">
+
+<a href="https://github.com/Vikash222">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%7C+Software+Developer;Building+Real-World+Software+%F0%9F%9A%80;AI+%26+Automation+Explorer+%F0%9F%A4%96;Turning+Ideas+into+Working+Products+%E2%9A%A1" alt="Typing animation" />
+</a>
+
+</div>
+
 ### Building useful software. Learning in public. Shipping ideas.
 
 <a href="https://github.com/Vikash222">
@@ -68,6 +76,21 @@ const vikash = {
 </td>
 </tr>
 </table>
+
+---
+
+## ✨ Animated Project Radar
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash222&repo=resume-forge-ai&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash222&repo=smart-booking-system&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=🛡️+Hostel+Kavach;🤖+Resume+Forge+AI;☎️+AI+IVR+Call+Assistant;📅+Smart+Booking+System" alt="Project rotation animation" />
+
+</div>
 
 ---
 
@@ -159,6 +182,16 @@ AI-assisted voice/call automation project.
 
 ---
 
+## 🐍 Contribution Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vikash222/Vikash222/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="95%" />
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -228,7 +261,7 @@ Software Engineering
 
 <br/><br/>
 
-**"Build things that solve real problems."**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Build+things+that+solve+real+problems.;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Repeat." alt="Closing animation" />
 
 </div>
 
