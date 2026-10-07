@@ -180,6 +180,30 @@ Passionate software engineer pursuing **B.Tech in Computer Science & Engineering
 
 ---
 
+<!-- AUTO-GITHUB-START -->
+
+### 🤖 Live GitHub Snapshot
+
+<div align="center">
+
+| Public Repositories | Stars | Forks | Followers |
+|---:|---:|---:|---:|
+| **auto** | **auto** | **auto** | **auto** |
+
+</div>
+
+<table width="100%">
+<tr><td width="50%" valign="top">Automation will populate this section.</td><td width="50%"></td></tr>
+</table>
+
+<div align="center">
+<sub>Automatically refreshed from GitHub public repository data.</sub>
+</div>
+
+<!-- AUTO-GITHUB-END -->
+
+---
+
 <div align="center">
   <p>⭐ From <a href="https://github.com/Vikash222">Vikash Kumar</a> | Let's build something extraordinary together!</p>
 </div>
