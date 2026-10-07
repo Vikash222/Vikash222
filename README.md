@@ -1,77 +1,69 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         VIKASH KUMAR                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+# <div align="center">VIKASH KUMAR</div>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f172a,50:1e293b,100:312e81&text=VIKASH%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20%7C%20Software%20Builder%20%7C%20AI%20%26%20Web&descAlignY=60&descSize=17&animation=fadeIn" width="100%"/>
-
-<div align="center">
-
-<a href="https://github.com/Vikash222">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student+%7C+Software+Developer;Building+Real-World+Software+%F0%9F%9A%80;AI+%26+Automation+Explorer+%F0%9F%A4%96;Turning+Ideas+into+Working+Products+%E2%9A%A1" alt="Typing animation" />
-</a>
-
+  <img src="https://raw.githubusercontent.com/Vikash222/Vikash222/main/assets/profile-hero.svg" width="100%" alt="Vikash Kumar animated profile hero"/>
 </div>
 
-### Building useful software. Learning in public. Shipping ideas.
+<div align="center">
 
 <a href="https://github.com/Vikash222">
-  <img src="https://img.shields.io/badge/GitHub-Vikash222-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=7C3AED&center=true&vCenter=true&width=760&lines=I+build+useful+software+from+real-world+problems.;Full-Stack+Development+%7C+AI+%7C+Automation;Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Ship+%F0%9F%9A%80" alt="Animated introduction"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Vikash222">
+  <img src="https://img.shields.io/badge/GITHUB-Vikash222-0b1020?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://mrvikash.in">
-  <img src="https://img.shields.io/badge/Portfolio-mrvikash.in-312e81?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-mrvikash.in-312e81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:samratvikashbabu0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-CONTACT-e11d48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 Developer Profile
 
-<table>
+<table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="52%" valign="top">
 
-```js
-const vikash = {
-  name: "Vikash Kumar",
-  role: "B.Tech CSE Student & Developer",
-  location: "India 🇮🇳",
+### `profile.json`
 
-  interests: [
-    "Software Engineering",
+```json
+{
+  "name": "Vikash Kumar",
+  "role": "B.Tech CSE Student",
+  "identity": "Software Builder",
+  "focus": [
+    "Full-Stack Engineering",
     "AI & Automation",
-    "Web Development",
-    "Problem Solving"
+    "Mobile Applications",
+    "Backend Systems"
   ],
-
-  currentlyBuilding: [
-    "Hostel Kavach",
-    "AI-powered applications",
-    "Real-world campus solutions"
-  ],
-
-  mindset: "Build → Test → Improve → Ship"
-};
+  "approach": "Build real solutions",
+  "mindset": "Curious • Practical • Ship"
+}
 ```
 
 </td>
-<td width="45%" valign="top">
+<td width="48%" valign="top">
 
-### ⚡ What I Do
+### ⚡ What I Build
 
-- 🧠 Turn real-world problems into software
-- 🌐 Build full-stack web applications
-- 🤖 Experiment with AI & automation
-- 📱 Explore cross-platform app development
-- 🔐 Care about security, APIs & clean architecture
-- 🚀 Keep learning by building projects
+I like taking a practical problem, turning it into a system, and then iterating until it works reliably.
 
-> **Code is not just something I study — it's something I use to build.**
+**Current interests**
+
+`AI` · `Web` · `Mobile` · `APIs` · `Databases` · `Security`
+
+**Engineering loop**
+
+`IDEA → DESIGN → CODE → TEST → DEPLOY`
 
 </td>
 </tr>
@@ -79,190 +71,189 @@ const vikash = {
 
 ---
 
-## ✨ Animated Project Radar
+## 🚀 Selected Builds
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash222&repo=resume-forge-ai&theme=tokyonight&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash222&repo=smart-booking-system&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=38BDF8&center=true&vCenter=true&width=650&lines=🛡️+Hostel+Kavach;🤖+Resume+Forge+AI;☎️+AI+IVR+Call+Assistant;📅+Smart+Booking+System" alt="Project rotation animation" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 🛡️ Hostel Kavach
-Smart hostel attendance & management ecosystem.
 
-**Focus:** Geofencing · Attendance · RBAC · APIs · Security
+A hostel attendance and management ecosystem focused on practical campus workflows.
 
-[![Repo](https://img.shields.io/badge/Repository-Private-374151?style=flat-square&logo=github)](https://github.com/Vikash222/hostel_attendance_system)
+**Stack:** Flutter · Node.js · SQLite · APIs
+
+<a href="https://github.com/Vikash222/hostel_attendance_system">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Resume Forge AI
-AI-assisted resume generation and customization platform.
 
-**Focus:** AI · Resume Automation · Web Development
+AI-assisted resume generation and customization workflow.
 
-[![Repo](https://img.shields.io/badge/Repository-View-111827?style=flat-square&logo=github)](https://github.com/Vikash222/resume-forge-ai)
+**Stack:** Web · AI · Automation
+
+<a href="https://github.com/Vikash222/resume-forge-ai">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
 ### 📅 Smart Booking System
-A web-based booking workflow designed for easier reservations.
 
-**Focus:** Full Stack · Booking · Web App
+A practical booking workflow designed around a clean full-stack architecture.
 
-[![Repo](https://img.shields.io/badge/Repository-View-111827?style=flat-square&logo=github)](https://github.com/Vikash222/smart-booking-system)
+**Stack:** JavaScript · Web · Backend
+
+<a href="https://github.com/Vikash222/smart-booking-system">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### ☎️ AI IVR Call Assistant
-AI-assisted voice/call automation project.
 
-**Focus:** Python · FastAPI · Twilio · AI
+An AI-assisted calling automation experiment.
 
-[![Repo](https://img.shields.io/badge/Repository-View-111827?style=flat-square&logo=github)](https://github.com/Vikash222/ai-ivr-call-assistant)
+**Stack:** Python · FastAPI · Twilio
+
+<a href="https://github.com/Vikash222/ai-ivr-call-assistant">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-334155?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧰 Tech Stack
-
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java,html,css" />
-
-### Frameworks & Runtime
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,laravel" />
-
-### Database, Cloud & Tools
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vercel,vscode,figma" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash222&repo=3D-portfolio&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Vikash222&repo=gate-entryptu&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 🧰 Engineering Stack
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikash222&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash222&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,typescript,html,css&perline=7" />
 
-<br/>
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flutter,laravel&perline=6" />
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,firebase,git,github,vercel,vscode,figma&perline=8" />
+
+</div>
+
+---
+
+## 📡 GitHub Control Room
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Vikash222&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vikash222&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Vikash222&theme=tokyonight&hide_border=true" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikash222&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vikash222&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Flow" width="96%" />
 
 </div>
 
 ---
 
-## 🐍 Contribution Animation
+## 🐍 Live Contribution Trail
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Vikash222/Vikash222/output/github-contribution-grid-snake-dark.svg" alt="Animated contribution snake" width="95%" />
+<img src="https://raw.githubusercontent.com/Vikash222/Vikash222/output/github-contribution-grid-snake-dark.svg" width="96%" alt="Animated GitHub contribution snake"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Vikash222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vikash222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" width="96%" />
 
 </div>
 
 ---
 
-## 🧭 What I'm Exploring
+## 🧭 Currently Exploring
+
+<table width="100%">
+<tr>
+<td width="25%" align="center">🤖<br/><b>AI</b><br/><sub>Intelligent apps & automation</sub></td>
+<td width="25%" align="center">🌐<br/><b>FULL STACK</b><br/><sub>Frontend to backend systems</sub></td>
+<td width="25%" align="center">📱<br/><b>MOBILE</b><br/><sub>Cross-platform product ideas</sub></td>
+<td width="25%" align="center">🔐<br/><b>SECURITY</b><br/><sub>APIs, access & system design</sub></td>
+</tr>
+</table>
+
+---
+
+## 🖥️ Terminal
+
+<div align="center">
 
 ```text
-Software Engineering
-        │
-        ├── Full-Stack Development
-        ├── AI & Automation
-        ├── Mobile Applications
-        ├── Backend Architecture
-        ├── Databases & APIs
-        └── Security & System Design
+vikash@dev-machine:~$ whoami
+Vikash Kumar
+
+vikash@dev-machine:~$ current_mode
+BUILDING REAL-WORLD SOFTWARE
+
+vikash@dev-machine:~$ next
+Learn → Build → Test → Improve → Ship
+
+vikash@dev-machine:~$ _
 ```
-
----
-
-## 📈 My Developer Journey
-
-<div align="center">
-
-| | |
-|---|---|
-| 🎓 **Education** | B.Tech — Computer Science & Engineering |
-| 💻 **Primary Focus** | Software Development |
-| 🤖 **Exploring** | AI, Automation & Intelligent Applications |
-| 🧩 **Approach** | Learn by building real projects |
-| 🌍 **Based in** | India 🇮🇳 |
 
 </div>
 
 ---
 
-## 🤝 Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://github.com/Vikash222">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://mrvikash.in">
-<img src="https://img.shields.io/badge/Portfolio-312e81?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Website-312e81?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:samratvikashbabu0@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-e11d48?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-### ⭐ If you find something useful here, consider giving the repository a star.
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Vikash222&style=flat-square&color=312e81&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Vikash222&style=for-the-badge&color=312e81&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=520&lines=Build+things+that+solve+real+problems.;Learn+%E2%86%92+Build+%E2%86%92+Ship+%E2%86%92+Repeat." alt="Closing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3200&pause=1000&color=64748B&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by+%F0%9F%91%8B;Build+something+useful+today." alt="Animated closing message"/>
 
 </div>
 
-<!-- Profile README designed for Vikash Kumar • Vikash222 -->
+<!-- Designed for Vikash222 • premium animated developer profile -->
