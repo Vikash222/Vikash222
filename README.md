@@ -208,7 +208,7 @@ Python · FastAPI · Twilio · AI
 <div align="center">
 
 <a href="https://mrvikash.in"><img src="https://img.shields.io/badge/PORTFOLIO-mrvikash.in-312e81?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:samratvikashbabu0@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-e11d48?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:emails.vikash@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-e11d48?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/Vikash222"><img src="https://img.shields.io/badge/GITHUB-Vikash222-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
