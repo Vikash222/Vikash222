@@ -1,6 +1,13 @@
 name: Profile Automation
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - ".github/scripts/update-profile.mjs"
+      - ".github/workflows/profile-automation.yml"
+      - "assets/profile-hero.svg"
   schedule:
     - cron: "17 0 * * *"
   workflow_dispatch:
@@ -14,6 +21,7 @@ concurrency:
 
 jobs:
   update-profile:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
 
     steps:
